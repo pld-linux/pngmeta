@@ -1,5 +1,5 @@
 Summary:	Display metadata information from PNG images
-Summary(pl):	Poka¿ meta-dane z plików png
+Summary(pl):	Pokazywanie metadanych z plików graficznych PNG
 Name:		pngmeta
 Version:	1.11
 Release:	1
@@ -18,6 +18,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This small filter program extracts metadata from PNG images and
 displays them as either HTML, SOIF, RDF/XML or simple fields and
 values.
+
+%description -l pl
+Ten ma³y program filtruj±cy wyci±ga metadane z plików graficznych
+PNG i wy¶wietla je w jednym z formatów: HTML, SOIF, RDF/XML lub jako
+pola i warto¶ci.
 
 %prep
 %setup -q
