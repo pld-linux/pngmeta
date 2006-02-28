@@ -3,7 +3,7 @@ Summary(pl):	Pokazywanie metadanych z plików graficznych PNG
 Name:		pngmeta
 Version:	1.11
 Release:	1
-License:	Freely Distributable
+License:	distributable
 Group:		Applications/Graphics
 Source0:	http://dl.sourceforge.net/pmt/%{name}-%{version}.tar.gz
 # Source0-md5:	5d495f7668f7ccc64a1576c8cfd15506
