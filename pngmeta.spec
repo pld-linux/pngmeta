@@ -1,5 +1,5 @@
 Summary:	Display metadata information from PNG images
-Summary(pl.UTF-8):   Pokazywanie metadanych z plików graficznych PNG
+Summary(pl.UTF-8):	Pokazywanie metadanych z plików graficznych PNG
 Name:		pngmeta
 Version:	1.11
 Release:	1
